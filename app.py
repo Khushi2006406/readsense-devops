@@ -7,7 +7,7 @@ def recommend_book(mood, genre):
         return "Atomic Habits"
 
 
-print("ReadSense - Smart Book Recommendation System")
+print("Welcome to ReadSense")
 
 book = recommend_book("stressed", "motivational")
 print("Recommended Book:", book)
